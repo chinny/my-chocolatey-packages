@@ -1,4 +1,4 @@
-# Chinny's Resume
+# my-chocolatey-packages
 
 ## Requirements
 
