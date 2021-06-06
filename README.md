@@ -12,9 +12,3 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 ## Usage
 
 * Install my favorite applications through the Chocolatey package manager.
-
-## Changelog
-
-* 2021-04-19: 
-  * Init commit 
-  * Created xml config files (based on chinny/my-winget-packages)
